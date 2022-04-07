@@ -7,3 +7,4 @@ https://learnersbucket.com/ <br/>
 # Machine coding round tasks
 SetTimeout Implementation <br/>
 JSCafe-To Do App <br/>
+create a function to clearAllTimeouts <br/>
